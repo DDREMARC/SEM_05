@@ -11,7 +11,7 @@ Podremos conocer diferentes tipos de formato de textos usando ~Markdown~.
 [Google](https://www.Google.com)
 [Tecsup](https://www.tecsup.edu.pe)
 
-##Colocar imágenes
+## Colocar imágenes
 ![Hola](img1.jpg)
 
 ## Funciones 
@@ -19,6 +19,7 @@ Podremos conocer diferentes tipos de formato de textos usando ~Markdown~.
 - [X]
 - [ ]
 - [ ]
+
 ## Creando tabla
 | Lenguaje de programación | Creador | 
 | -------------------- | -------------- |
