@@ -1,5 +1,16 @@
 # Angel GABRIEL
 
+# Indice
+- [Titulo](#título-importante)
+- [Subtitulo](#subtitulo-1)
+- [Subtitulo](#subtitulo-2)
+- [Hiperv](#creando-hiperv)
+- [Imagen](#colocar-imágenes)
+- [Funciones](#funciones)
+- [Tablas](#creando-tabla)
+- [Codigo](#código)
+- [Diagrama](#diagrama-de-tectup)
+
 # Título importante
 Aprendiendo *markdown* en las clases del profesor Luis pallin
 
