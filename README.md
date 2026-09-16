@@ -41,8 +41,8 @@ public class Gitbash {
     public static void main(String[] args) {
         System.out.println("Hello world");
     }
-}```
-
+}
+```
 ```JavaScript
     document.body.innerHTML = 
         "<h1> Hola mundo desde JS </h1>";
