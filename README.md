@@ -63,7 +63,7 @@ C --> |NO| E[Error de sistema]
 ## Diagrama de tectup
 ```mermaid
 flowchart TD
-A[Tecsup] --> B[BREVE CONCEPTO]
+A[Tecsup] --> B[CARRERAS DE TECSUP]
 B --> C[Informatica]
 B --> D[Diseño]
 B --> E[Administrar]
